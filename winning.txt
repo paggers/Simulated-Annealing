@@ -1,0 +1,17 @@
+Tricks:
+	1. Blow up constraints
+	2. Long names
+	3. Add random constraints (non-collapsable)
+
+Solutions:
+	1. 
+		a. If over-lapping -> Collapse
+ 	   	b. Else -> ?
+	2. Assign names
+	3. ?
+
+Optimization:
+	1.	a. Least number of overlaps
+		b. 
+	2.
+	3. 	
